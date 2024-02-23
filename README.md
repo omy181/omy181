@@ -30,9 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
-
-<p align="center">Programs</p>
+<h2 align="center">Programs</p>
 
 ###
 
